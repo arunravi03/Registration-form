@@ -1,0 +1,77 @@
+body {
+    background-color: teal;
+    box-sizing: border-box;
+}
+.head-container {
+    border-radius: 10px;
+    background-color: #0e0e0e;
+    padding: 30px;
+    color:white;
+    width: 35%;
+    margin-left: 30%;
+    margin-top: 4%;
+    border: 2px solid white;
+}
+
+.header {
+    margin-left: 10%;
+}
+
+.reg {
+    margin-left: 10%;
+}
+
+input[type=text], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+  
+input[type=password], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+  
+input[type=email] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btn-male {
+    border: 1px solid grey;
+    background-color: #0e0e0e;
+    color: white;
+}
+
+.btn-female {
+    border: 1px solid grey;
+    background-color: #0e0e0e;
+    color: white;
+}
+
+.btn-other {
+    border: 1px solid grey;
+    background-color: #0e0e0e;
+    color: white;
+}
+
+.but-reg {
+    border-radius: 2px;
+    background-color: blue;
+    color: white;
+}
+  
